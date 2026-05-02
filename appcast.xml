@@ -1,29 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0">
+<channel>
+<title>MacWin Updates</title>
+<link>https://tlaus1.github.io/macwin-updates/</link>
+<description>Updates for MacWin</description>
+<language>en</language>
 
-  <channel>
-    <title>MacWin Updates</title>
-    <link>https://tlaus1.github.io/macwin-updates/</link>
-    <description>Updates for MacWin</description>
-    <language>en</language>
+<item>
+<title>MacWin 1.2.0</title>
+<description>MacWin 1.2.0 update with improvements and bug fixes.</description>
+<pubDate>Tue, 29 Apr 2026 12:00:00 +0000</pubDate>
 
-    <item>
-      <title>MacWin 1.2.0</title>
-      <description>Initial release of MacWin.</description>
-      <pubDate>Tue, 29 Apr 2026 12:00:00 +0000</pubDate>
+<sparkle:version>120</sparkle:version>
+<sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
 
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+<enclosure 
+url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin1.2.0.zip"
+sparkle:version="120"
+sparkle:shortVersionString="1.2.0"
+length="12345678"
+type="application/octet-stream"/>
 
-      <enclosure
-        url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin1.2.0.zip"
-        sparkle:version="1.2.0"
-        sparkle:shortVersionString="1.2"
-        length="12345678"
-        type="application/octet-stream" />
-    </item>
-
-  </channel>
+</item>
+</channel>
 </rss>
