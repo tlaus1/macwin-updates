@@ -1,5 +1,7 @@
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
+
 <title>MacWin Updates</title>
 <link>https://tlaus1.github.io/macwin-updates/</link>
 <description>Updates for MacWin</description>
@@ -13,7 +15,7 @@
 <sparkle:version>120</sparkle:version>
 <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
 
-<enclosure 
+<enclosure
 url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin1.2.0.zip"
 sparkle:version="120"
 sparkle:shortVersionString="1.2.0"
@@ -21,5 +23,6 @@ length="12345678"
 type="application/octet-stream"/>
 
 </item>
+
 </channel>
 </rss>
