@@ -7,16 +7,16 @@
     <language>en</language>
 
     <item>
-        <title>MacWin 1.6.5</title>
-        <pubDate>Sat, 16 May 2026 17:05:29 -0400</pubDate>
-        <sparkle:version>8</sparkle:version>
-        <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+        <title>MacWin 1.7.0</title>
+        <pubDate>Sat, 16 May 2026 17:16:48 -0400</pubDate>
+        <sparkle:version>9</sparkle:version>
+        <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
         <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         <enclosure
-            url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.6.5.zip"
+            url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.7.0.zip"
             type="application/octet-stream"
-            sparkle:edSignature="49qpjhk/jReuoE59/eLrZXImSf3iPXnF2g6/4JupxtbZq53c3fv2QDZFs9kmJkVuzIvxJRLtqo9ewAJv5w0YCA=="
-            length="37117089" />
+            sparkle:edSignature="eEY2IZa/B7cLurSgJrARJg5yhR3QZE6oGavkpGCG2NEKVcwuvpfs51IQ5uS9cQt8089aB9XBzi2aUiv7EBdWCg=="
+            length="37117090" />
     </item>
 
 </channel>
