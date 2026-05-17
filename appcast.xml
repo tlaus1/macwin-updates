@@ -7,15 +7,15 @@
     <language>en</language>
 
 <item>
-            <title>Version 1.7.7</title>
-            <pubDate>Sun, 17 May 2026 00:50:37 -0400</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
+            <title>Version 1.7.8</title>
+            <pubDate>Sun, 17 May 2026 13:12:57 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.7.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.7.7.zip"
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.7.8.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="/an3USI49m8UxgSoESfiA1byIgnogMp2ct276UGd/kvBG2/4n1wpxpsCqotMQX+LKJaUIpLbrNCnED2CvD2iBw==" length="38966043" />
+                sparkle:edSignature="ePECJrHITOGD/gszGD9xraJdkTPOd1ux88at7T4qDGELOz/LqG8ehNWxx1DREldHkICElCXKJrB5nKSRPPkiDg==" length="39091029" />
         </item>
 
 </channel>
