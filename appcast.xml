@@ -8,14 +8,14 @@
 
 <item>
             <title>Version 1.9.3</title>
-            <pubDate>Mon, 18 May 2026 10:38:56 -0400</pubDate>
+            <pubDate>Mon, 18 May 2026 10:57:43 -0400</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.9.3.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="YL+YrO7P74HXNts0vvd05/4d43GKYGmjetETkKJy/JAnm+MuNqRseKhWsQB/So2xLkRjInBczPh2kCB3ZrMJAg==" length="39336264" />
+                sparkle:edSignature="sVm0fhYKc7S2RM9NMVRUmaD+5GQRtVvbwDv85NldM1fcdX/JATPj6Qw9C6Ap+l6M8titEXgZnJZruzjLvWaBAA==" length="39336264" />
         </item>
 
 </channel>
