@@ -7,15 +7,15 @@
     <language>en</language>
 
 <item>
-            <title>Version 2.0.3</title>
-            <pubDate>Wed, 20 May 2026 17:54:58 -0400</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>2.0.3</sparkle:shortVersionString>
+            <title>Version 2.0.4</title>
+            <pubDate>Wed, 20 May 2026 18:11:41 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-2.0.3.zip"
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-2.0.4.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="k3PeIpiWa+3yzsqJ8LIDiMmmjI/HXIcgu39DoQbsyXDNHJt81BLwWMAU5TqdxwklBfBNLG+rWxdUU+wsru1hDg==" length="39416423" />
+                sparkle:edSignature="L+aZDqQQvercQLeSrw/0oAXDB/X8PvjVbaQDQSImhJQm/pCCwBAGOByRmu7yVnwQvHKDxPEYAStQJjdsuhi3BQ==" length="39417251" />
         </item>
 
 </channel>
