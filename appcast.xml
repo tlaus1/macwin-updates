@@ -7,6 +7,18 @@
     <language>en</language>
 
 <item>
+            <title>Version 2.0.30</title>
+            <pubDate>Thu, 21 May 2026 07:22:45 -0400</pubDate>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>2.0.30</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-2.0.30.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="TQotWNTOnzSESNCbFntLKCjLhg4pNPg3QOfooy4RRX3y+s/QZSSC4LvQK+kILBawYE94RvAgHeqtDp0Y3JarCA==" length="39833424" />
+        </item>
+
+        <item>
             <title>Version 2.0.29</title>
             <pubDate>Wed, 20 May 2026 23:52:42 -0400</pubDate>
             <sparkle:version>65</sparkle:version>
