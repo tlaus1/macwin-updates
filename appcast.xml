@@ -7,6 +7,18 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.0.6</title>
+            <pubDate>Sat, 30 May 2026 10:45:00 -0400</pubDate>
+            <sparkle:version>1002</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.0.6.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="AtY+06FUz75MWryd4HsqHToWCYU/Ug/s6wVesE7tZVLlzH1Z/t4nvL640qe3kglqyRY/sOIDIWXGz+8LcNyIBw==" length="39873231" />
+        </item>
+
+        <item>
             <title>Version 1.0.5</title>
             <pubDate>Sat, 30 May 2026 10:30:00 -0400</pubDate>
             <sparkle:version>1001</sparkle:version>
