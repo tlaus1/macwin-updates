@@ -7,15 +7,15 @@
     <language>en</language>
 
         <item>
-            <title>Version 1.0.10</title>
-            <pubDate>Sat, 30 May 2026 11:45:00 -0400</pubDate>
-            <sparkle:version>1006</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>Version 1.1.0</title>
+            <pubDate>Sat, 30 May 2026 11:55:00 -0400</pubDate>
+            <sparkle:version>1007</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.0.10.zip"
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.1.0.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="vC7KjEdwz4w7ATIFp1u88UE6woH++Zrx9Y7/Rwc1wRrUFy/D737F/9oMTU9NyMnK2BUMzPamYjGzMy9O+xFUAA==" length="39876104" />
+                sparkle:edSignature="OgM8ef4TIKSyeJk5gCl3uLqY3axya1KKlhJ8rgoHAAFO7h8zPG9JPuFX7x0YfH33Ac8+woGz5OpDeqvqYFOYDA==" length="39876102" />
         </item>
 
         <item>
