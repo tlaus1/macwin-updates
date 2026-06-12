@@ -7,6 +7,25 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.0.4</title>
+            <description><![CDATA[
+Important: Brand-new MacWin-styled update window — the one you're looking at right now. Replaces the plain Sparkle dialog.
+
+New features: The update prompt now shows the version you're moving to, collapsible release-note sections, and a live download progress bar.
+
+Bug fixes: Update prompts now reliably come to the front instead of hiding behind other windows.
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 14:50:00 -0400</pubDate>
+            <sparkle:version>1035</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.0.4.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="VZpqRl5wkTOfCRO06whiR6zAn4oRJjIVUXJe6Fl7O7DJNw0JVG2bFIft65fR7rCkgeiqZplTd14cuXTC64KWDQ==" length="40115313" />
+        </item>
+
+        <item>
             <title>Version 1.0.3</title>
             <pubDate>Sun, 07 Jun 2026 14:25:00 -0400</pubDate>
             <sparkle:version>1034</sparkle:version>
