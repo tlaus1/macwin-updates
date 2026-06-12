@@ -7,6 +7,23 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.0.8</title>
+            <description><![CDATA[
+Important: Restores reliable auto-updates. The custom update window introduced earlier wasn't appearing, so MacWin now uses the standard, battle-tested update dialog. This is the build that fixes updates.
+
+Bug fixes: Update prompts reliably appear again.
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 16:55:00 -0400</pubDate>
+            <sparkle:version>1039</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.0.8.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="yj/2A5lp+/7tSXzBghAzSQSCN7vY8fsiOsSGA4+HgM9F+n1G939R2L5gIqezuHMr1a7DgKthc8sHV+Bm07IZCQ==" length="40125011" />
+        </item>
+
+        <item>
             <title>Version 1.0.7</title>
             <description><![CDATA[
 Important: Diagnostic build to pin down the trash drop bug. Writes drag events to a log file we can read directly.
