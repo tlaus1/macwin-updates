@@ -7,6 +7,23 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.0.7</title>
+            <description><![CDATA[
+Important: Diagnostic build to pin down the trash drop bug. Writes drag events to a log file we can read directly.
+
+Bug fixes: Continued investigation of the trash drop dead zone.
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 16:30:00 -0400</pubDate>
+            <sparkle:version>1038</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.0.7.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="qlRv1VEJCzQHvhqQfUSOSRvwmkUDzjRIx1F7kqvgN/S1tgOGn8/xNvqmyW2wCrVRqUW0rkiXk+KQjgtkjPebDA==" length="40124475" />
+        </item>
+
+        <item>
             <title>Version 1.0.6</title>
             <description><![CDATA[
 Important: Fixes drag-and-drop dead zones on the taskbar. App icons were silently rejecting file drags over their entire area instead of letting the taskbar's trash handling take over.
