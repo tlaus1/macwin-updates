@@ -7,6 +7,25 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.1.2</title>
+            <description><![CDATA[
+Important: The taskbar now auto-hides in fullscreen and slides up when you move the mouse to the bottom edge, instead of staying visible.
+
+New features: Fullscreen detection now works even without Accessibility permission (falls back to a window-size check).
+
+Bug fixes: Fixed the Enable Taskbar toggle showing OFF after an update while the taskbar was running. Settings window opens more reliably. Launch at login defaults on for new installs.
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 19:30:00 -0400</pubDate>
+            <sparkle:version>1043</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.1.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="kl5Kettc4CMh3X8+avtTcvJJ8CwoUAFP6Lr+lMw5GsU4mnMpA6++Bo3ozRnplwqsj3GBheNEM8dN5XAxyVfJCA==" length="40128499" />
+        </item>
+
+        <item>
             <title>Version 1.1.1</title>
             <description><![CDATA[
 Important: The trash bin now accepts files dropped on its bottom edge too. macOS won't deliver drops to the very bottom of the screen, so MacWin now detects the release itself and trashes the file. The trash icon stays exactly where it is.
