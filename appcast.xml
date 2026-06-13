@@ -7,6 +7,25 @@
     <language>en</language>
 
         <item>
+            <title>Version 1.1.6</title>
+            <description><![CDATA[
+Important: Trashed files now reliably land in the Trash you can see — even with Desktop & Documents synced to iCloud — and play the macOS trash sound.
+
+New features: Plays the system "move to trash" sound when you drop a file on the trash.
+
+Bug fixes: Files dropped on the trash were going to iCloud's hidden trash instead of the visible Trash. The drag cursor now shows the move indicator instead of a misleading green "+".
+            ]]></description>
+            <pubDate>Sun, 07 Jun 2026 21:15:00 -0400</pubDate>
+            <sparkle:version>1047</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/tlaus1/macwin-updates/releases/download/update/MacWin-1.1.6.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="QBjGny85djspapBGnI7uFeeU5Zzf2ZhMyMVyE7d93+i9FJ1BDFSoA91PTAjeTGZ9UFXgR8VihfnCxgFKmUr9Bg==" length="40134507" />
+        </item>
+
+        <item>
             <title>Version 1.1.4</title>
             <description><![CDATA[
 Important: Rewrote the trash drag-and-drop handling from scratch. Dropping a file anywhere on the trash icon — including the very bottom — now works.
